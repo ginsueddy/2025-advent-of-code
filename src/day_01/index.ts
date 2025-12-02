@@ -77,4 +77,5 @@ function puzzle2() {
   console.log('final answer', count);
 }
 
+// puzzle1();
 puzzle2();
