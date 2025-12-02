@@ -1,0 +1,9 @@
+{
+  "name": "2025-advent-of-code",
+  "packageManager": "yarn@4.9.2",
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
