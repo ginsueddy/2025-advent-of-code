@@ -10,6 +10,7 @@ __metadata:
   resolution: "2025-advent-of-code@workspace:."
   dependencies:
     "@types/node": "npm:^24.10.1"
+    javascript-lp-solver: "npm:^0.4.24"
     tsx: "npm:^4.21.0"
     typescript: "npm:^5.9.3"
   languageName: unknown
@@ -545,6 +546,13 @@ __metadata:
   version: 3.1.1
   resolution: "isexe@npm:3.1.1"
   checksum: 10c0/9ec257654093443eb0a528a9c8cbba9c0ca7616ccb40abd6dde7202734d96bb86e4ac0d764f0f8cd965856aacbff2f4ce23e730dc19dfb41e3b0d865ca6fdcc7
+  languageName: node
+  linkType: hard
+
+"javascript-lp-solver@npm:^0.4.24":
+  version: 0.4.24
+  resolution: "javascript-lp-solver@npm:0.4.24"
+  checksum: 10c0/447cef1ac521d58d03e35f551c9a392e72a8837c4a0dba32f549f56b830d2a16f90dc823a9307bc2cc89e649a2c53a19fd904d65ebee0c2ad8fe712acdf429a3
   languageName: node
   linkType: hard
 
