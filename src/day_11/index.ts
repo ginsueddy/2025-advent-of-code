@@ -83,6 +83,8 @@ function dfsTraverse2() {
   }
 }
 
+// the paths you find must all also visit both dac and fft (in any order).
+// Find all of the paths that lead from svr to out.
 function puzzle2() {
   const traverseFunc = dfsTraverse2();
   const paths = traverseFunc('svr', false, false);
